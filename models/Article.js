@@ -14,7 +14,7 @@ const articleSchema = new Schema({
     required: true
   },
 
-  date_created_at: {
+  date: {
     type: String,
     required: true
   }
